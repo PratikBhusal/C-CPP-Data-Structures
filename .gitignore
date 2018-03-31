@@ -1,3 +1,7 @@
+tags
+
+# CMake Files
+Cmake files
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
@@ -7,3 +11,6 @@ cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
+
+# C/C++ Object Files
+*.o
