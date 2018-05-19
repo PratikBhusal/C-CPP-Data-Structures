@@ -6,11 +6,16 @@ CMakeCache.txt
 CMakeFiles
 CMakeScripts
 Testing
-Makefile
 cmake_install.cmake
 install_manifest.txt
 compile_commands.json
 CTestTestfile.cmake
+
+# CMake generated folders
+build
+build/
+bin
+bin/
 
 # C/C++ Object Files
 *.o
